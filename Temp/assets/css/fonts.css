@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 100;
+    src: url('../fonts/eot/PelakFA-Thin.eot');
+    src: url('../fonts/eot/PelakFA-Thin.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-Thin.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-Thin.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/eot/PelakFA-light.eot');
+    src: url('../fonts/eot/PelakFA-light.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-light.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/eot/PelakFA-Regular.eot');
+    src: url('../fonts/eot/PelakFA-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-Regular.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-Regular.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/eot/PelakFA-Medium.eot');
+    src: url('../fonts/eot/PelakFA-Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-Medium.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/eot/PelakFA-SemiBold.eot');
+    src: url('../fonts/eot/PelakFA-SemiBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-SemiBold.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-SemiBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/eot/PelakFA-Bold.eot');
+    src: url('../fonts/eot/PelakFA-Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-Bold.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/eot/PelakFA-ExtraBold.eot');
+    src: url('../fonts/eot/PelakFA-ExtraBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-ExtraBold.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-ExtraBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+@font-face {
+    font-family: 'pelak';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/eot/PelakFA-Black.eot');
+    src: url('../fonts/eot/PelakFA-Black.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/woff2/PelakFA-Black.woff2') format('woff2'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/woff/PelakFA-Black.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
